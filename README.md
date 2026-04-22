@@ -34,6 +34,10 @@ Tensor selenium autotest - проект для функционального а
     ```
     pytest
     ```
+    Для запуска определенного теста из корневой директории проекта
+    ```
+    pytest tests/test_tensor.py::TestSaby::test_name
+    ```
 
 ## Автор
 * [**Алексей Гусев**](https://github.com/AlekseyGusev157) 
