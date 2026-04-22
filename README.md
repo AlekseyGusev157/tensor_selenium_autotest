@@ -8,7 +8,7 @@ Tensor selenium autotest - проект для функционального а
 ## Установка
 1. Клонируйте репозиторий на компьютер
     ```
-    git clone https://github.com/AlekseyGusev157/tensor_selenium_test
+    git clone https://github.com/AlekseyGusev157/tensor_selenium_autotest.git
 
     ```
 ## Локальное развертывание проекта
